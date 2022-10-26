@@ -4,7 +4,7 @@
 cargo run
 ```
 
-localhost:8000
+localhost:8000/user
 
 ```js
 //POST
